@@ -105,11 +105,3 @@ The scan results indicate that the system is **critically vulnerable**. Several 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />  
 </p>
 
----
-
-## 📂 How To Use
-
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/WWambui/SBT-Vulnerability-Management.git
-
