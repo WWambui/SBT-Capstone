@@ -14,7 +14,6 @@ In this project I:
 - Analyzed results to identify **critical issues**  
 - Suggested appropriate **remediation steps**
 
-**Tools used:** Kali Linux, Nessus, Metasploitable 2 :contentReference[oaicite:0]{index=0}
 
 ---
 
@@ -34,11 +33,9 @@ You are looking to move into a Vulnerability Analyst position within the securit
 
 ---
 
-## 📊 Visuals & Stats
+## CHALLENGE QUESTIONS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WWambui&show_icons=true&theme=radical&hide_border=true" alt="WWambui's GitHub stats"/>
-</p>
+
 
 ---
 
