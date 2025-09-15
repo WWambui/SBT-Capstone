@@ -34,6 +34,32 @@ You are looking to move into a Vulnerability Analyst position within the securit
 ---
 
 ## CHALLENGE QUESTIONS
+Provide an overview of the results from the scan.How vulnerable is this system?
+The Nessus scan revealed that the system is highly vulnerable, with multiple **Critical** and **High** severity findings. Many of the vulnerabilities arise from outdated services and weak default configurations.
+
+<p align="center">
+   <img src="ecedd1d9-f952-4bbd-aecb-f56d49e61037.png" alt="Nessus Scan Results" width="750"/>
+" alt="Nessus Scan Results" width="700"/>
+</p>
+
+Top 5 Most Serious Security Issues (In priority order - most important first):
+
+>> What are the 5 most critical issues with the scanned system? Talk about each one, and what could happen if an attacker exploits the vulnerability <<
+
+    1. Most serious issue
+    2. Security flaw
+    3. Security flaw
+    4. Security flaw
+    5. Security flaw
+
+Top 5 - Remediations (In priority order - most important first):
+>> What are the suggested remediation actions to address the top 5 most critical security flaws? Re-word them, don’t just copy and paste Nessus’ suggestions <<
+
+    1. Most serious issue remediation
+    2. Security flaw remediation
+    3. Security flaw remediation
+    4. Security flaw remediation
+    5. Security flaw remediation
 
 
 
