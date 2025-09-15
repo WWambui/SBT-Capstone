@@ -38,15 +38,16 @@ Provide an overview of the results from the scan.How vulnerable is this system?
 The Nessus scan revealed that the system is highly vulnerable, with multiple **Critical** and **High** severity findings. Many of the vulnerabilities arise from outdated services and weak default configurations.
 
 <p align="center">
-   <img src="ecedd1d9-f952-4bbd-aecb-f56d49e61037.png" alt="Nessus Scan Results" width="750"/>
-" alt="Nessus Scan Results" width="700"/>
+<img src="https://raw.githubusercontent.com/WWambui/SBT-Vulnerability-Management/main/Nessus_Scan.png" width="750"/>
 </p>
 
 Top 5 Most Serious Security Issues (In priority order - most important first):
 
 >> What are the 5 most critical issues with the scanned system? Talk about each one, and what could happen if an attacker exploits the vulnerability <<
 
-    1. Most serious issue
+    1. UnrealIRCd Backdoor Detection
+            Issue: A backdoor was detected in the UnrealIRCd service.
+            Impact: Remote code execution and full system compromise. Attackers with backdoor access can persist, escalate, and pivot                          throughout the network.
     2. Security flaw
     3. Security flaw
     4. Security flaw
