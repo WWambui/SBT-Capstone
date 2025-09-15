@@ -33,11 +33,12 @@ You are looking to move into a Vulnerability Analyst position within the securit
 
 ---
 
-##  ## CHALLENGE QUESTIONS
+## CHALLENGE QUESTIONS
 Provide an overview of the results from the scan. How vulnerable is this system?
 
 The scan results indicate that the system is **critically vulnerable**. Several high-risk issues were identified, including remote backdoors, weak authentication, outdated operating systems, and insecure cryptographic protocols. An attacker exploiting these flaws could achieve **full remote compromise**, persistence, and lateral movement within the network.
 
+## Scan evidence
 <p align="center">
 <img src="https://raw.githubusercontent.com/WWambui/SBT-Vulnerability-Management/main/Nessus_Scan.png" width="750"/>
 <img src="https://raw.githubusercontent.com/WWambui/SBT-Vulnerability-Management/main/Scan_Evidence.png" width="750"/>
