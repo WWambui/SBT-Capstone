@@ -40,6 +40,8 @@ The scan results indicate that the system is **critically vulnerable**. Several 
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/WWambui/SBT-Vulnerability-Management/main/Nessus_Scan.png" width="750"/>
+<img src="https://raw.githubusercontent.com/WWambui/SBT-Vulnerability-Management/main/Scan_Evidence.png" width="750"/>
+
 </p>
 ---
 
@@ -93,19 +95,6 @@ The scan results indicate that the system is **critically vulnerable**. Several 
    - Reconfigure services to reject SSLv2/SSLv3 connections.  
    - Enable only TLS 1.2 or TLS 1.3 with secure cipher suites.  
    - Test with tools such as `openssl s_client` to confirm the changes.
-
----
-
-### 📸 Scan Evidence
-
-Below is a screenshot of the Nessus scan results for reference:
-
-![Nessus Scan Results](images/nessus-results.png)
-
- 
-
-
----
 
 ## 🔧 Technologies & Tools
 
